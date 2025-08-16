@@ -13,7 +13,6 @@ let nama = "        ama         ";
 
 // 3. Arrow Function
 let umurValid = (umur) => umur >= 5 && umur <= 25;
-
 // 4. Callback Function
 function mulaiPendaftaran(callback) {
     console.log(" Memulai proses pendaftaran...");
